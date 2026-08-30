@@ -2,7 +2,7 @@
 // CIS 3207: Introduction to System Programming and Operating Systems
 // August 30, 2026
 // Assignment 1: Introduction to Git & GitHub
-// This file creates a program that returns a string of random characters. 
+// This file creates a function that returns a string of random characters. 
 #include <stdio.h>
 #include <time.h>
 

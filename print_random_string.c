@@ -1,4 +1,7 @@
-// Danny Mei
+// Danny Mei 
+// CIS 3207: Introduction to System Programming and Operating Systems
+// August 30, 2026
+// Assignment 1: Introduction to Git & GitHub
 
 #include <stdio.h>
 #include <stdlib.h>
