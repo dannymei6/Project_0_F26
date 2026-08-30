@@ -1,11 +1,9 @@
-
+// Danny Mei
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include "random.c"
-
-char* rand_string(char* string, size_t length);
 
 // random string generator wrapper function
 char* rand_string_alloc(size_t size)
